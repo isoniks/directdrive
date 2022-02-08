@@ -1,9 +1,9 @@
-//Direct Drive Turntable using Arduino Uno and TMC2209
-//Created by: Kasidej Khunvattanakarn @ 2020-2021
-//https://github.com/ksdj55/dd_turntable
-////Modified by isoniks @2022
-https://github.com/isoniks/directdrive
-//Licensed under GNU General Public License v3.0
+// Direct Drive Turntable using Arduino Uno and TMC2209
+// Created by: Kasidej Khunvattanakarn @ 2020-2021
+// https://github.com/ksdj55/dd_turntable
+// Modified by isoniks @2022
+// https://github.com/isoniks/directdrive
+// Licensed under GNU General Public License v3.0
 
 
 #define LED_PIN 13 // onboard LED
